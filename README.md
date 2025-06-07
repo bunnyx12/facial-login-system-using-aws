@@ -26,16 +26,16 @@ This project is a secure and contactless facial recognition-based login system, 
 ---
 
 ## 🖥️ Project Structure
-facial-login-system/
-│
-├── app.py # Main Flask application
-├── templates/
-│ └── index.html # Frontend UI
-├── static/
-│ └── style.css # CSS Styling
-├── captured_images/ # Temporary image captures
-└── utils/
-└── aws_helpers.py # S3 and Rekognition integration
+- facial-login-system/
+- │
+- ├── app.py # Main Flask application
+- ├── templates/
+- │ └── index.html # Frontend UI
+- ├── static/
+- │ └── style.css # CSS Styling
+- ├── captured_images/ # Temporary image captures
+- └── utils/
+- └── aws_helpers.py # S3 and Rekognition integration
 
 
 ---
